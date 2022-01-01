@@ -1,0 +1,20 @@
+html,body{
+    margin: 0;
+}
+#drawing{
+    width: 70%;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#pass
+{
+    font-size: xx-large;
+    background-color: aqua;
+    text-align: center;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+}
